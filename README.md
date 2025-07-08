@@ -66,7 +66,7 @@ A beginner-friendly **Arithmetic Calculator desktop application** built using Py
 
 ---
 
-## ✨ Future Improvements (Optional)
+## ✨ Future Improvements
 
 * Keyboard input support
 * Add power, square root, or percentage options
@@ -79,12 +79,6 @@ A beginner-friendly **Arithmetic Calculator desktop application** built using Py
 ## 🤝 Contributing
 
 Pull requests are welcome! Feel free to fork this repository, suggest features, or report bugs by opening an issue.
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
